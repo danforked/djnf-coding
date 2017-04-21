@@ -1,7 +1,17 @@
 # Coding for DJNF fellows
 
-Resources for the 2016 Dow Jones News Fund training at the University of Missouri.
+Resources for the Dow Jones News Fund training at the University of Missouri.
 
-This repo contains files that detail the fundamentals of the Python programming language; how to take a stab at scraping a web page table with a basic Python script; a guide to get rolling with Python at home or work; and more!
+## `/2016`
 
-Contact Alex Richards with any questions ([alex@ire.org](mailto:alex@ire.org)).
+This folder contains files from the 2016 training session detailing the fundamentals of the Python programming language; how to take a stab at scraping a web page table with a basic Python script; a guide to get rolling with Python at home or work; and more!
+
+## `/2017`
+
+Same!
+
+
+### Set up Python yourself!
+Check out our guide: `install_guide.md`.
+
+Contact Cody Winchester with any questions ([cody@ire.org](mailto:cody@ire.org)).
