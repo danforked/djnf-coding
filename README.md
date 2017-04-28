@@ -8,10 +8,11 @@ This folder contains files from the 2016 training session detailing the fundamen
 
 ## `/2017`
 
-Same!
-
 
 ### Set up Python yourself!
 Check out our guide: `install_guide.md`.
+
+### Additional resources
+
 
 Contact Cody Winchester with any questions ([cody@ire.org](mailto:cody@ire.org)).
