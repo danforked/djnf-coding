@@ -1,0 +1,863 @@
+NAME,POS,SALARY,Team
+Zack Greinke,SP,31799030.00,Arizona Diamondbacks
+Yasmany Tomas,OF,7500000.00,Arizona Diamondbacks
+Tyler Clippard,RP,6100000.00,Arizona Diamondbacks
+Paul Goldschmidt,1B,5833333.00,Arizona Diamondbacks
+Brad Ziegler,P,5500000.00,Arizona Diamondbacks
+Shelby Miller,SP,4350000.00,Arizona Diamondbacks
+Welington Castillo,C,3700000.00,Arizona Diamondbacks
+A.J. Pollock,CF,3500000.00,Arizona Diamondbacks
+Daniel Hudson,RP,2700000.00,Arizona Diamondbacks
+Jean Segura,SS,2600000.00,Arizona Diamondbacks
+Patrick Corbin,SP,2525000.00,Arizona Diamondbacks
+Rubby De La Rosa,SP,2350000.00,Arizona Diamondbacks
+Josh Collmenter,RP,1825000.00,Arizona Diamondbacks
+Rickie Weeks,LF,1500000.00,Arizona Diamondbacks
+Randall Delgado,SP,1275000.00,Arizona Diamondbacks
+Chris Owings,2B,530500.00,Arizona Diamondbacks
+David Peralta,LF,529600.00,Arizona Diamondbacks
+Nick Ahmed,SS,521600.00,Arizona Diamondbacks
+Robbie Ray,SP,521000.00,Arizona Diamondbacks
+Jake Lamb,3B,520300.00,Arizona Diamondbacks
+Andrew Chafin,RP,519700.00,Arizona Diamondbacks
+Chris Herrmann,C,515900.00,Arizona Diamondbacks
+Philip Gosselin,3B,513900.00,Arizona Diamondbacks
+Silvino Bracho,RP,509300.00,Arizona Diamondbacks
+Brandon Drury,3B,508900.00,Arizona Diamondbacks
+Socrates Brito,CF,508500.00,Arizona Diamondbacks
+Jake Barrett,RP,507500.00,Arizona Diamondbacks
+Freddie Freeman,1B,12359375.00,Atlanta Braves
+Nick Markakis,RF,11000000.00,Atlanta Braves
+Erick Aybar,SS,8500000.00,Atlanta Braves
+Hector Olivera,OF,4000000.00,Atlanta Braves
+Jason Grilli,P,3625000.00,Atlanta Braves
+Julio Teheran,P,3466666.00,Atlanta Braves
+A.J. Pierzynski,C,3000000.00,Atlanta Braves
+Bud Norris,SP,2500000.00,Atlanta Braves
+Jim Johnson,RP,2500000.00,Atlanta Braves
+Tyler Flowers,C,2000000.00,Atlanta Braves
+Alexi Ogando,RP,2000000.00,Atlanta Braves
+Kelly Johnson,2B,2000000.00,Atlanta Braves
+Eric O'Flaherty,RP,1750000.00,Atlanta Braves
+Gordon Beckham,3B,1250000.00,Atlanta Braves
+Jeff Francoeur,RF,1000000.00,Atlanta Braves
+Arodys Vizcaino,RP,897500.00,Atlanta Braves
+Ender Inciarte,RF,523000.00,Atlanta Braves
+Jace Peterson,2B,520500.00,Atlanta Braves
+Paco Rodriguez,RP,520500.00,Atlanta Braves
+Andrew McKirahan,RP,511750.00,Atlanta Braves
+Williams Perez,SP,511250.00,Atlanta Braves
+Adonis Garcia,3B,508750.00,Atlanta Braves
+Dan Winkler,RP,508500.00,Atlanta Braves
+Shae Simmons,RP,508000.00,Atlanta Braves
+Drew Stubbs,CF,507500.00,Atlanta Braves
+Jesse Biddle,SP,507500.00,Atlanta Braves
+John Gant,RP,507500.00,Atlanta Braves
+Jose A. Ramirez,RP,507500.00,Atlanta Braves
+Manny Banuelos,SP,507500.00,Atlanta Braves
+Matt Wisler,SP,507500.00,Atlanta Braves
+Chris Davis,1B,21268890.00,Baltimore Orioles
+Adam Jones,OF,16329674.00,Baltimore Orioles
+Matt Wieters,C,15800000.00,Baltimore Orioles
+Ubaldo Jimenez,P,12673102.00,Baltimore Orioles
+J.J. Hardy,SS,12209424.00,Baltimore Orioles
+Mark Trumbo,RF,9150000.00,Baltimore Orioles
+Yovani Gallardo,SP,8728776.00,Baltimore Orioles
+Zach Britton,RP,6750000.00,Baltimore Orioles
+Chris Tillman,SP,6225000.00,Baltimore Orioles
+Darren O'Day,RP,5854712.00,Baltimore Orioles
+Pedro Alvarez,1B,5731704.00,Baltimore Orioles
+Manny Machado,3B,5000000.00,Baltimore Orioles
+Brian Matusz,RP,3900000.00,Baltimore Orioles
+Hyun-soo Kim,LF,2800000.00,Baltimore Orioles
+Vance Worley,SP,2600000.00,Baltimore Orioles
+Dylan Bundy,SP,1800000.00,Baltimore Orioles
+Ryan Flaherty,2B,1500000.00,Baltimore Orioles
+Nolan Reimold,LF,1300000.00,Baltimore Orioles
+Brad Brach,RP,1250000.00,Baltimore Orioles
+Kevin Gausman,SP,532000.00,Baltimore Orioles
+Caleb Joseph,C,523500.00,Baltimore Orioles
+T.J. McFarland,RP,523500.00,Baltimore Orioles
+Jonathan Schoop,2B,522500.00,Baltimore Orioles
+Jimmy Paredes,DH,520000.00,Baltimore Orioles
+Mychal Givens,RP,511500.00,Baltimore Orioles
+Tyler Wilson,RP,511500.00,Baltimore Orioles
+Mike Wright,SP,510500.00,Baltimore Orioles
+Joey Rickard,CF,507500.00,Baltimore Orioles
+David Price,SP,30000000.00,Boston Red Sox
+Hanley Ramirez,1B,22750000.00,Boston Red Sox
+Rick Porcello,SP,20125000.00,Boston Red Sox
+Pablo Sandoval,3B,17600000.00,Boston Red Sox
+David Ortiz,DH,16000000.00,Boston Red Sox
+Clay Buchholz,SP,13000000.00,Boston Red Sox
+Dustin Pedroia,2B,12642511.00,Boston Red Sox
+Rusney Castillo,RF,11400000.00,Boston Red Sox
+Craig Kimbrel,RP,11000000.00,Boston Red Sox
+Koji Uehara,P,9000000.00,Boston Red Sox
+Chris Young,LF,6500000.00,Boston Red Sox
+Ryan Hanigan,C,3700000.00,Boston Red Sox
+Junichi Tazawa,RP,3375000.00,Boston Red Sox
+Joe Kelly,SP,2600000.00,Boston Red Sox
+Robbie Ross,RP,1250000.00,Boston Red Sox
+Xander Bogaerts,SS,650000.00,Boston Red Sox
+Brock Holt,2B,606000.00,Boston Red Sox
+Mookie Betts,CF,566000.00,Boston Red Sox
+Tom Layne,RP,563750.00,Boston Red Sox
+Jackie Bradley Jr.,CF,546500.00,Boston Red Sox
+Brandon Workman,SP,539500.00,Boston Red Sox
+Carson Smith,RP,529000.00,Boston Red Sox
+Eduardo Rodriguez,SP,521000.00,Boston Red Sox
+Blake Swihart,C,518500.00,Boston Red Sox
+Travis Shaw,3B,515000.00,Boston Red Sox
+Steven Wright,SP,514500.00,Boston Red Sox
+Christian Vazquez,C,513000.00,Boston Red Sox
+Matt Barnes,RP,511000.00,Boston Red Sox
+Noe Ramirez,RP,509500.00,Boston Red Sox
+Jon Lester,SP,25000000.00,Chicago Cubs
+Jason Heyward,RF,19555288.00,Chicago Cubs
+John Lackey,SP,16000000.00,Chicago Cubs
+Miguel Montero,C,14000000.00,Chicago Cubs
+Jake Arrieta,SP,10700000.00,Chicago Cubs
+Ben Zobrist,2B,10500000.00,Chicago Cubs
+Jason Hammel,P,9000000.00,Chicago Cubs
+Dexter Fowler,CF,8000000.00,Chicago Cubs
+Travis Wood,RP,6170000.00,Chicago Cubs
+Anthony Rizzo,1B,5285714.00,Chicago Cubs
+Pedro Strop,RP,4400000.00,Chicago Cubs
+Trevor Cahill,RP,4250000.00,Chicago Cubs
+Hector Rondon,RP,4200000.00,Chicago Cubs
+Jorge Soler,RF,3666666.00,Chicago Cubs
+David Ross,C,2500000.00,Chicago Cubs
+Clayton Richard,RP,2000000.00,Chicago Cubs
+Adam Warren,RP,1700000.00,Chicago Cubs
+Justin Grimm,RP,1275000.00,Chicago Cubs
+Kris Bryant,3B,652000.00,Chicago Cubs
+Kyle Hendricks,SP,541000.00,Chicago Cubs
+Tommy La Stella,2B,532000.00,Chicago Cubs
+Addison Russell,SS,527000.00,Chicago Cubs
+Neil Ramirez,RP,524500.00,Chicago Cubs
+Zac Rosscup,RP,524500.00,Chicago Cubs
+Kyle Schwarber,LF,522000.00,Chicago Cubs
+Javier Baez,SS,512000.00,Chicago Cubs
+Matt Szczur,CF,511500.00,Chicago Cubs
+Aaron Brooks,SP,510000.00,Chicago Cubs
+Dallas Beeler,SP,508500.00,Chicago Cubs
+Christian Villanueva,3B,507500.00,Chicago Cubs
+Joey Votto,1B,20000000.00,Cincinnati Reds
+Homer Bailey,SP,18000000.00,Cincinnati Reds
+Brandon Phillips,2B,13083333.00,Cincinnati Reds
+Jay Bruce,OF,12541666.00,Cincinnati Reds
+Devin Mesoraco,C,5025000.00,Cincinnati Reds
+Raisel Iglesias,SP,3214285.00,Cincinnati Reds
+Zack Cozart,SS,2925000.00,Cincinnati Reds
+Alfredo Simon,SP,2000000.00,Cincinnati Reds
+J.J. Hoover,RP,1400000.00,Cincinnati Reds
+Ross Ohlendorf,RP,800000.00,Cincinnati Reds
+Blake Wood,RP,600000.00,Cincinnati Reds
+Billy Hamilton,CF,570000.00,Cincinnati Reds
+Eugenio Suarez,3B,545000.00,Cincinnati Reds
+Anthony DeSclafani,SP,540000.00,Cincinnati Reds
+Tony Cingrani,RP,530000.00,Cincinnati Reds
+Jumbo Diaz,RP,525000.00,Cincinnati Reds
+Tucker Barnhart,C,517500.00,Cincinnati Reds
+Ivan De Jesus,2B,517000.00,Cincinnati Reds
+Michael Lorenzen,RP,516500.00,Cincinnati Reds
+Dan Straily,RP,512100.00,Cincinnati Reds
+Brandon Finnegan,SP,511500.00,Cincinnati Reds
+Adam Duvall,1B,510000.00,Cincinnati Reds
+Caleb Cotham,RP,509675.00,Cincinnati Reds
+Jon Moscot,SP,508000.00,Cincinnati Reds
+Kyle Skipworth,C,508000.00,Cincinnati Reds
+Tyler Holt,CF,508000.00,Cincinnati Reds
+Jake Cave,LF,507500.00,Cincinnati Reds
+John Lamb,SP,507500.00,Cincinnati Reds
+Keyvius Sampson,SP,507500.00,Cincinnati Reds
+Scott Schebler,LF,507500.00,Cincinnati Reds
+Yorman Rodriguez,CF,507500.00,Cincinnati Reds
+Carlos Santana,C,8450000.00,Cleveland Indians
+Michael Brantley,OF,7375000.00,Cleveland Indians
+Mike Napoli,1B,7000000.00,Cleveland Indians
+Jason Kipnis,2B,6166667.00,Cleveland Indians
+Rajai Davis,CF,5250000.00,Cleveland Indians
+Corey Kluber,SP,4700000.00,Cleveland Indians
+Carlos Carrasco,SP,4500000.00,Cleveland Indians
+Cody Allen,RP,4150000.00,Cleveland Indians
+Juan Uribe,3B,4000000.00,Cleveland Indians
+Bryan Shaw,RP,2750000.00,Cleveland Indians
+Lonnie Chisenhall,RF,2725000.00,Cleveland Indians
+Yan Gomes,C,2583333.00,Cleveland Indians
+Josh Tomlin,SP,2250000.00,Cleveland Indians
+Tommy Hunter,RP,2000000.00,Cleveland Indians
+Trevor Bauer,SP,1697500.00,Cleveland Indians
+Zach McAllister,RP,1300000.00,Cleveland Indians
+Collin Cowgill,LF,1000000.00,Cleveland Indians
+Marlon Byrd,RF,1000000.00,Cleveland Indians
+Ross Detwiler,RP,1000000.00,Cleveland Indians
+Jeff Manship,RP,765000.00,Cleveland Indians
+Francisco Lindor,SS,540300.00,Cleveland Indians
+Danny Salazar,SP,536200.00,Cleveland Indians
+Dan Otero,RP,520000.00,Cleveland Indians
+Jose Ramirez,SS,518200.00,Cleveland Indians
+Roberto Perez,C,515800.00,Cleveland Indians
+Cody Anderson,SP,511400.00,Cleveland Indians
+Tyler Naquin,CF,507500.00,Cleveland Indians
+Jose Reyes,SS,22000000.00,Colorado Rockies
+Carlos Gonzalez,RF,17428571.00,Colorado Rockies
+Jorge De La Rosa,SP,12500000.00,Colorado Rockies
+Gerardo Parra,LF,8000000.00,Colorado Rockies
+Boone Logan,RP,6250000.00,Colorado Rockies
+Jason Motte,RP,5000000.00,Colorado Rockies
+Nolan Arenado,3B,5000000.00,Colorado Rockies
+Jake McGee,RP,4800000.00,Colorado Rockies
+Charlie Blackmon,CF,3500000.00,Colorado Rockies
+Nick Hundley,C,3150000.00,Colorado Rockies
+DJ LeMahieu,2B,3000000.00,Colorado Rockies
+Jordan Lyles,SP,2975000.00,Colorado Rockies
+Mark Reynolds,1B,2600000.00,Colorado Rockies
+Chad Qualls,RP,2250000.00,Colorado Rockies
+Daniel Descalso,SS,2100000.00,Colorado Rockies
+Ryan Raburn,OF,1500000.00,Colorado Rockies
+Adam Ottavino,RP,1300000.00,Colorado Rockies
+Tyler Chatwood,SP,1000000.00,Colorado Rockies
+Brandon Barnes,LF,1000000.00,Colorado Rockies
+Jason Gurka,RP,660000.00,Colorado Rockies
+Ben Paulsen,1B,512500.00,Colorado Rockies
+Chad Bettis,SP,512500.00,Colorado Rockies
+Chris Rusin,RP,512500.00,Colorado Rockies
+Christian Bergman,RP,512500.00,Colorado Rockies
+Cristhian Adames,SS,509500.00,Colorado Rockies
+Jairo Diaz,RP,509500.00,Colorado Rockies
+Jon Gray,SP,509500.00,Colorado Rockies
+Justin Miller,RP,509500.00,Colorado Rockies
+Miguel Castro,RP,509500.00,Colorado Rockies
+Tyler Anderson,SP,509500.00,Colorado Rockies
+Tyler Matzek,SP,509500.00,Colorado Rockies
+Tony Wolters,C,507500.00,Colorado Rockies
+Trevor Story,SS,507500.00,Colorado Rockies
+John Danks,SP,15750000.00,Chicago White Sox
+Melky Cabrera,LF,14000000.00,Chicago White Sox
+Jose Abreu,1B,11666667.00,Chicago White Sox
+David Robertson,RP,11000000.00,Chicago White Sox
+Chris Sale,SP,9150000.00,Chicago White Sox
+Todd Frazier,3B,8250000.00,Chicago White Sox
+Jose Quintana,SP,5400000.00,Chicago White Sox
+Zach Duke,RP,5000000.00,Chicago White Sox
+Austin Jackson,CF,5000000.00,Chicago White Sox
+Brett Lawrie,2B,4125000.00,Chicago White Sox
+Dioner Navarro,C,4000000.00,Chicago White Sox
+Mat Latos,SP,3000000.00,Chicago White Sox
+Adam Eaton,RF,2750000.00,Chicago White Sox
+Alex Avila,C,2500000.00,Chicago White Sox
+Avisail Garcia,RF,2100000.00,Chicago White Sox
+Jimmy Rollins,SS,2000000.00,Chicago White Sox
+Matt Albers,RP,2000000.00,Chicago White Sox
+Zach Putnam,RP,975000.00,Chicago White Sox
+Nate Jones,RP,900000.00,Chicago White Sox
+Dan Jennings,RP,810000.00,Chicago White Sox
+Jacob Petricka,RP,535000.00,Chicago White Sox
+Jerry Sands,RF,535000.00,Chicago White Sox
+J.B. Shuck,RF,521000.00,Chicago White Sox
+Carlos Rodon,SP,518000.00,Chicago White Sox
+Tyler Saladino,3B,513000.00,Chicago White Sox
+Miguel Cabrera,1B,28000000.00,Detroit Tigers
+Justin Verlander,SP,28000000.00,Detroit Tigers
+Justin Upton,LF,22125000.00,Detroit Tigers
+Jordan Zimmermann,SP,18000000.00,Detroit Tigers
+Victor Martinez,DH,18000000.00,Detroit Tigers
+Anibal Sanchez,SP,16800000.00,Detroit Tigers
+Ian Kinsler,2B,14000000.00,Detroit Tigers
+Mike Pelfrey,SP,8000000.00,Detroit Tigers
+Cameron Maybin,OF,8000000.00,Detroit Tigers
+Francisco Rodriguez,RP,7383481.00,Detroit Tigers
+J.D. Martinez,RF,6750000.00,Detroit Tigers
+Mark Lowe,RP,5500000.00,Detroit Tigers
+Jose Iglesias,SS,2100000.00,Detroit Tigers
+Mike Aviles,SS,2000000.00,Detroit Tigers
+Justin Wilson,RP,1525000.00,Detroit Tigers
+Andrew Romine,3B,900000.00,Detroit Tigers
+Logan Kensing,RP,575000.00,Detroit Tigers
+Nick Castellanos,3B,536500.00,Detroit Tigers
+Anthony Gose,CF,525000.00,Detroit Tigers
+Alex Wilson,RP,522500.00,Detroit Tigers
+Blaine Hardy,RP,520500.00,Detroit Tigers
+James McCann,C,519500.00,Detroit Tigers
+Shane Greene,SP,517000.00,Detroit Tigers
+Daniel Norris,SP,514500.00,Detroit Tigers
+Tyler Collins,OF,510500.00,Detroit Tigers
+Buck Farmer,RP,509500.00,Detroit Tigers
+Drew VerHagen,RP,509500.00,Detroit Tigers
+Kyle Ryan,RP,509500.00,Detroit Tigers
+Angel Nesbitt,RP,508500.00,Detroit Tigers
+Jarrod Saltalamacchia,C,507500.00,Detroit Tigers
+Jeff Ferrell,RP,507500.00,Detroit Tigers
+Colby Rasmus,LF,15800000.00,Houston Astros
+Carlos Gomez,CF,9000000.00,Houston Astros
+Scott Feldman,SP,8000000.00,Houston Astros
+Dallas Keuchel,SP,7250000.00,Houston Astros
+Doug Fister,SP,7000000.00,Houston Astros
+Luke Gregerson,RP,6750000.00,Houston Astros
+Pat Neshek,RP,6500000.00,Houston Astros
+Luis Valbuena,3B,6125000.00,Houston Astros
+Tony Sipp,RP,6000000.00,Houston Astros
+Jason Castro,C,5000000.00,Houston Astros
+Jose Altuve,2B,3687500.00,Houston Astros
+Evan Gattis,DH,3300000.00,Houston Astros
+Marwin Gonzalez,SS,2000000.00,Houston Astros
+Josh Fields,RP,900000.00,Houston Astros
+Erik Kratz,C,850000.00,Houston Astros
+Collin McHugh,SP,529000.00,Houston Astros
+Ken Giles,RP,528200.00,Houston Astros
+Will Harris,RP,525500.00,Houston Astros
+Mike Fiers,SP,524100.00,Houston Astros
+George Springer,RF,522400.00,Houston Astros
+Jake Marisnick,CF,519500.00,Houston Astros
+Carlos Correa,SS,516700.00,Houston Astros
+Lance McCullers,SP,516700.00,Houston Astros
+Preston Tucker,OF,515000.00,Houston Astros
+Matt Duffy,3B,510200.00,Houston Astros
+Max Stassi,C,508200.00,Houston Astros
+Michael Feliz,RP,508200.00,Houston Astros
+Tyler White,1B,507500.00,Houston Astros
+Alex Gordon,LF,12000000.00,Kansas City Royals
+Edinson Volquez,SP,9500000.00,Kansas City Royals
+Kendrys Morales,DH,9000000.00,Kansas City Royals
+Jason Vargas,SP,8500000.00,Kansas City Royals
+Eric Hosmer,1B,8250000.00,Kansas City Royals
+Wade Davis,RP,8000000.00,Kansas City Royals
+Omar Infante,2B,7750000.00,Kansas City Royals
+Ian Kennedy,SP,7500000.00,Kansas City Royals
+Joakim Soria,RP,7000000.00,Kansas City Royals
+Lorenzo Cain,CF,6500000.00,Kansas City Royals
+Mike Moustakas,3B,5600000.00,Kansas City Royals
+Luke Hochevar,RP,5500000.00,Kansas City Royals
+Kris Medlen,P,5500000.00,Kansas City Royals
+Alcides Escobar,SS,5250000.00,Kansas City Royals
+Chris Young,SP,4250000.00,Kansas City Royals
+Danny Duffy,RP,4225000.00,Kansas City Royals
+Kelvin Herrera,RP,2550000.00,Kansas City Royals
+Salvador Perez,C,2000000.00,Kansas City Royals
+Mike Minor,SP,2000000.00,Kansas City Royals
+Dillon Gee,SP,2000000.00,Kansas City Royals
+Jarrod Dyson,RF,1725000.00,Kansas City Royals
+Tim Collins,RP,1475000.00,Kansas City Royals
+Yordano Ventura,SP,1200000.00,Kansas City Royals
+Drew Butera,C,1162500.00,Kansas City Royals
+Chien-Ming Wang,SP,1000000.00,Kansas City Royals
+Christian Colon,2B,518425.00,Kansas City Royals
+Paulo Orlando,RF,514250.00,Kansas City Royals
+Terrance Gore,LF,508500.00,Kansas City Royals
+Reymond Fuentes,RF,508450.00,Kansas City Royals
+Albert Pujols,1B,25000000.00,Los Angeles Angels
+C.J. Wilson,SP,20500000.00,Los Angeles Angels
+Jered Weaver,SP,20200000.00,Los Angeles Angels
+Mike Trout,CF,16083333.00,Los Angeles Angels
+Huston Street,RP,8000000.00,Los Angeles Angels
+Yunel Escobar,3B,7000000.00,Los Angeles Angels
+Garrett Richards,SP,6425000.00,Los Angeles Angels
+Andrelton Simmons,SS,6000000.00,Los Angeles Angels
+Joe Smith,RP,5250000.00,Los Angeles Angels
+Hector Santiago,SP,5000000.00,Los Angeles Angels
+Kole Calhoun,RF,3400000.00,Los Angeles Angels
+Geovany Soto,C,2800000.00,Los Angeles Angels
+Fernando Salas,RP,2400000.00,Los Angeles Angels
+Cliff Pennington,2B,1500000.00,Los Angeles Angels
+Daniel Nava,LF,1375000.00,Los Angeles Angels
+Craig Gentry,LF,1000000.00,Los Angeles Angels
+Ji-Man Choi,1B,650000.00,Los Angeles Angels
+Johnny Giavotella,2B,532500.00,Los Angeles Angels
+Matt Shoemaker,SP,530000.00,Los Angeles Angels
+C.J. Cron,1B,525000.00,Los Angeles Angels
+Mike Morin,RP,520000.00,Los Angeles Angels
+Andrew Heaney,SP,515000.00,Los Angeles Angels
+Cory Rasmus,RP,514500.00,Los Angeles Angels
+Carlos Perez,C,513000.00,Los Angeles Angels
+Cam Bedrosian,RP,510500.00,Los Angeles Angels
+Jose Alvarez,RP,507500.00,Los Angeles Angels
+Clayton Kershaw,SP,33000000.00,Los Angeles Dodgers
+Adrian Gonzalez,1B,21000000.00,Los Angeles Dodgers
+Carl Crawford,OF,20750000.00,Los Angeles Dodgers
+Andre Ethier,LF,18000000.00,Los Angeles Dodgers
+Brett Anderson,SP,15800000.00,Los Angeles Dodgers
+Scott Kazmir,SP,14985384.00,Los Angeles Dodgers
+Brandon McCarthy,SP,12500000.00,Los Angeles Dodgers
+Kenley Jansen,RP,10650000.00,Los Angeles Dodgers
+Howie Kendrick,2B,9540378.00,Los Angeles Dodgers
+Hyun-Jin Ryu,SP,7833333.00,Los Angeles Dodgers
+Alex Guerrero,SS,7500000.00,Los Angeles Dodgers
+Yasiel Puig,RF,7214285.00,Los Angeles Dodgers
+Chase Utley,2B,7000000.00,Los Angeles Dodgers
+J.P. Howell,RP,6250000.00,Los Angeles Dodgers
+Justin Turner,3B,5100000.00,Los Angeles Dodgers
+A.J. Ellis,C,4500000.00,Los Angeles Dodgers
+Joe Blanton,RP,4000000.00,Los Angeles Dodgers
+Kenta Maeda,SP,3125000.00,Los Angeles Dodgers
+Yasmani Grandal,C,2800000.00,Los Angeles Dodgers
+Scott Van Slyke,LF,1225000.00,Los Angeles Dodgers
+Chris Hatcher,RP,1065000.00,Los Angeles Dodgers
+Louis Coleman,RP,725000.00,Los Angeles Dodgers
+Charlie Culberson,3B,535000.00,Los Angeles Dodgers
+Alex Wood,SP,530000.00,Los Angeles Dodgers
+Joc Pederson,CF,520000.00,Los Angeles Dodgers
+Kike Hernandez,LF,520000.00,Los Angeles Dodgers
+Pedro Baez,RP,520000.00,Los Angeles Dodgers
+Yimi Garcia,RP,517500.00,Los Angeles Dodgers
+Josh Ravin,RP,515000.00,Los Angeles Dodgers
+Michael Bolsinger,SP,515000.00,Los Angeles Dodgers
+Austin Barnes,C,512500.00,Los Angeles Dodgers
+Trayce Thompson,CF,512500.00,Los Angeles Dodgers
+Corey Seager,SS,510000.00,Los Angeles Dodgers
+Frankie Montas,RP,510000.00,Los Angeles Dodgers
+Ross Stripling,SP,507500.00,Los Angeles Dodgers
+Wei-Yin Chen,SP,12500000.00,Miami Marlins
+Martin Prado,3B,11000000.00,Miami Marlins
+Giancarlo Stanton,RF,9000000.00,Miami Marlins
+Chris Johnson,3B,8007500.00,Miami Marlins
+Tom Koehler,SP,3500000.00,Miami Marlins
+Mike Dunn,P,3450000.00,Miami Marlins
+A.J. Ramos,RP,3400000.00,Miami Marlins
+Dee Gordon,2B,3242202.00,Miami Marlins
+Jose Fernandez,SP,2800000.00,Miami Marlins
+Adeiny Hechavarria,SS,2625000.00,Miami Marlins
+David Phelps,RP,2500000.00,Miami Marlins
+Ichiro Suzuki,LF,2000000.00,Miami Marlins
+Craig Breslow,RP,1500000.00,Miami Marlins
+Jeff Mathis,C,1500000.00,Miami Marlins
+Bryan Morris,RP,1350000.00,Miami Marlins
+Chris Narveson,RP,1200000.00,Miami Marlins
+Christian Yelich,LF,1000000.00,Miami Marlins
+Dustin McGowan,RP,1000000.00,Miami Marlins
+Carter Capps,RP,987500.00,Miami Marlins
+Marcell Ozuna,CF,570000.00,Miami Marlins
+Jarred Cosart,SP,550000.00,Miami Marlins
+Justin Bour,1B,537500.00,Miami Marlins
+J.T. Realmuto,C,532500.00,Miami Marlins
+Derek Dietrich,3B,522500.00,Miami Marlins
+Adam Conley,SP,512500.00,Miami Marlins
+Miguel Rojas,3B,511000.00,Miami Marlins
+Raudel Lazo,RP,508500.00,Miami Marlins
+Edwin Jackson,P,507500.00,Miami Marlins
+Ryan Braun,OF,19315013.00,Milwaukee Brewers
+Matt Garza,SP,12209424.00,Milwaukee Brewers
+Aaron Hill,3B,12000000.00,Milwaukee Brewers
+Jonathan Lucroy,C,4100000.00,Milwaukee Brewers
+Wily Peralta,SP,2800000.00,Milwaukee Brewers
+Chris Carter,1B,2500000.00,Milwaukee Brewers
+Chris Capuano,RP,1500000.00,Milwaukee Brewers
+Will Smith,RP,1475000.00,Milwaukee Brewers
+Martin Maldonado,C,1125000.00,Milwaukee Brewers
+Carlos Torres,RP,1050000.00,Milwaukee Brewers
+Blaine Boyer,RP,950000.00,Milwaukee Brewers
+Jimmy Nelson,SP,522300.00,Milwaukee Brewers
+Chase Anderson,SP,520200.00,Milwaukee Brewers
+Jeremy Jeffress,RP,519100.00,Milwaukee Brewers
+Taylor Jungmann,SP,518500.00,Milwaukee Brewers
+Scooter Gennett,2B,518100.00,Milwaukee Brewers
+Michael Blazek,RP,514200.00,Milwaukee Brewers
+Kirk Nieuwenhuis,LF,514000.00,Milwaukee Brewers
+Tyler Thornburg,RP,513900.00,Milwaukee Brewers
+Domingo Santana,RF,513800.00,Milwaukee Brewers
+Corey Knebel,RP,513000.00,Milwaukee Brewers
+Jonathan Villar,SS,512900.00,Milwaukee Brewers
+Ariel Pena,SP,510000.00,Milwaukee Brewers
+Sean Nolin,RP,509700.00,Milwaukee Brewers
+Yhonathan Barrios,RP,509200.00,Milwaukee Brewers
+Ramon Flores,LF,508800.00,Milwaukee Brewers
+Yadiel Rivera,SS,508600.00,Milwaukee Brewers
+Keon Broxton,CF,508500.00,Milwaukee Brewers
+Rymer Liriano,LF,508500.00,Milwaukee Brewers
+Colin Walsh,2B,507500.00,Milwaukee Brewers
+Zach Jones,RP,507500.00,Milwaukee Brewers
+Joe Mauer,1B,23000000.00,Minnesota Twins
+Ervin Santana,SP,13500000.00,Minnesota Twins
+Ricky Nolasco,SP,12000000.00,Minnesota Twins
+Phil Hughes,SP,9200000.00,Minnesota Twins
+Trevor Plouffe,3B,7250000.00,Minnesota Twins
+Glen Perkins,RP,6300000.00,Minnesota Twins
+Kurt Suzuki,C,6000000.00,Minnesota Twins
+Kevin Jepsen,RP,5312000.00,Minnesota Twins
+Tommy Milone,RP,4500000.00,Minnesota Twins
+Brian Dozier,2B,3000000.00,Minnesota Twins
+Byung Ho Park,DH,2750000.00,Minnesota Twins
+Casey Fien,RP,2275000.00,Minnesota Twins
+Eduardo Escobar,SS,2150000.00,Minnesota Twins
+Eduardo Nunez,SS,1475000.00,Minnesota Twins
+Fernando Abad,RP,1250000.00,Minnesota Twins
+Kyle Gibson,SP,587500.00,Minnesota Twins
+Miguel Sano,RF,547500.00,Minnesota Twins
+Trevor May,RP,545000.00,Minnesota Twins
+Eddie Rosario,LF,542500.00,Minnesota Twins
+Danny Santana,SS,537500.00,Minnesota Twins
+Oswaldo Arcia,LF,535000.00,Minnesota Twins
+John Ryan Murphy,C,528700.00,Minnesota Twins
+Ryan Pressly,RP,520000.00,Minnesota Twins
+Michael Tonkin,RP,515000.00,Minnesota Twins
+Byron Buxton,CF,512500.00,Minnesota Twins
+Yoenis Cespedes,CF,27328046.00,New York Mets
+David Wright,3B,19364801.00,New York Mets
+Curtis Granderson,CF,16000000.00,New York Mets
+Neil Walker,2B,10550000.00,New York Mets
+Asdrubal Cabrera,SS,8250000.00,New York Mets
+Bartolo Colon,SP,7250000.00,New York Mets
+Lucas Duda,1B,6725000.00,New York Mets
+Alejandro De Aza,LF,5750000.00,New York Mets
+Antonio Bastardo,RP,5375000.00,New York Mets
+Addison Reed,RP,5300000.00,New York Mets
+Matt Harvey,SP,4325000.00,New York Mets
+Jeurys Familia,RP,4100000.00,New York Mets
+Jerry Blevins,RP,4000000.00,New York Mets
+Juan Lagares,CF,2500000.00,New York Mets
+Josh Edgin,RP,625000.00,New York Mets
+Jacob deGrom,SP,607000.00,New York Mets
+Jim Henderson,RP,600000.00,New York Mets
+Zack Wheeler,SP,546250.00,New York Mets
+Travis d'Arnaud,C,542604.00,New York Mets
+Noah Syndergaard,SP,535375.00,New York Mets
+Wilmer Flores,SS,526014.00,New York Mets
+Michael Conforto,LF,517246.00,New York Mets
+Hansel Robles,RP,516500.00,New York Mets
+Steven Matz,SP,515750.00,New York Mets
+Logan Verrett,RP,514875.00,New York Mets
+Eric Campbell,3B,513308.00,New York Mets
+Kevin Plawecki,C,511360.00,New York Mets
+CC Sabathia,SP,25000000.00,New York Yankees
+Mark Teixeira,1B,23125000.00,New York Yankees
+Masahiro Tanaka,SP,22000000.00,New York Yankees
+Jacoby Ellsbury,CF,21142857.00,New York Yankees
+Alex Rodriguez,DH,21000000.00,New York Yankees
+Brian McCann,C,17000000.00,New York Yankees
+Carlos Beltran,RF,15000000.00,New York Yankees
+Brett Gardner,LF,13500000.00,New York Yankees
+Chase Headley,3B,13000000.00,New York Yankees
+Aroldis Chapman,RP,9468443.00,New York Yankees
+Andrew Miller,RP,9000000.00,New York Yankees
+Starlin Castro,2B,7857142.00,New York Yankees
+Nathan Eovaldi,SP,5600000.00,New York Yankees
+Michael Pineda,SP,4300000.00,New York Yankees
+Ivan Nova,RP,4100000.00,New York Yankees
+Dustin Ackley,LF,3200000.00,New York Yankees
+Didi Gregorius,SS,2425000.00,New York Yankees
+Aaron Hicks,CF,574000.00,New York Yankees
+Austin Romine,C,556000.00,New York Yankees
+Chasen Shreve,RP,533400.00,New York Yankees
+Greg Bird,1B,525300.00,New York Yankees
+Luis Severino,SP,521300.00,New York Yankees
+Bryan Mitchell,RP,516650.00,New York Yankees
+Kirby Yates,RP,511900.00,New York Yankees
+Mason Williams,CF,509700.00,New York Yankees
+Ronald Torreyes,SS,508600.00,New York Yankees
+Dellin Betances,RP,507500.00,New York Yankees
+John Barbato,RP,507500.00,New York Yankees
+Luis Cessa,RF,507500.00,New York Yankees
+Billy Butler,DH,11666667.00,Oakland Athletics
+Coco Crisp,CF,11000000.00,Oakland Athletics
+Jed Lowrie,2B,7500000.00,Oakland Athletics
+Ryan Madson,RP,6666667.00,Oakland Athletics
+Josh Reddick,RF,6575000.00,Oakland Athletics
+Rich Hill,SP,6000000.00,Oakland Athletics
+Chris Coghlan,RF,4800000.00,Oakland Athletics
+John Axford,RP,4500000.00,Oakland Athletics
+Henderson Alvarez,SP,4250000.00,Oakland Athletics
+Danny Valencia,3B,3150000.00,Oakland Athletics
+Marc Rzepczynski,RP,2950000.00,Oakland Athletics
+Yonder Alonso,1B,2650000.00,Oakland Athletics
+Felix Doubront,SP,2000000.00,Oakland Athletics
+Sam Fuld,LF,1925000.00,Oakland Athletics
+Sean Doolittle,RP,1580000.00,Oakland Athletics
+Eric Sogard,2B,1500000.00,Oakland Athletics
+Fernando Rodriguez,RP,1050000.00,Oakland Athletics
+Jarrod Parker,SP,850000.00,Oakland Athletics
+Sonny Gray,SP,527500.00,Oakland Athletics
+Stephen Vogt,C,527500.00,Oakland Athletics
+Khris Davis,LF,524500.00,Oakland Athletics
+Liam Hendriks,RP,523400.00,Oakland Athletics
+Billy Burns,CF,512500.00,Oakland Athletics
+Josh Phegley,C,512500.00,Oakland Athletics
+Kendall Graveman,SP,512500.00,Oakland Athletics
+Marcus Semien,SS,512500.00,Oakland Athletics
+Mark Canha,LF,512500.00,Oakland Athletics
+Chris Bassitt,SP,510000.00,Oakland Athletics
+R.J. Alvarez,RP,510000.00,Oakland Athletics
+Ryan Dull,RP,507500.00,Oakland Athletics
+Ryan Howard,1B,25000000.00,Philadelphia Phillies
+Matt Harrison,SP,13000000.00,Philadelphia Phillies
+Carlos Ruiz,C,8500000.00,Philadelphia Phillies
+Charlie Morton,SP,8000000.00,Philadelphia Phillies
+Jeremy Hellickson,SP,7000000.00,Philadelphia Phillies
+David Hernandez,RP,3900000.00,Philadelphia Phillies
+Freddy Galvis,SS,2000000.00,Philadelphia Phillies
+Peter Bourjos,LF,2000000.00,Philadelphia Phillies
+James Russell,RP,1500000.00,Philadelphia Phillies
+Andres Blanco,2B,1450000.00,Philadelphia Phillies
+Jeanmar Gomez,RP,1400000.00,Philadelphia Phillies
+Emmanuel Burriss,2B,925000.00,Philadelphia Phillies
+Cody Asche,LF,530000.00,Philadelphia Phillies
+Odubel Herrera,CF,528000.00,Philadelphia Phillies
+Darin Ruf,1B,527000.00,Philadelphia Phillies
+Cesar Hernandez,2B,525000.00,Philadelphia Phillies
+Brett Oberholtzer,RP,518000.00,Philadelphia Phillies
+Cameron Rupp,C,518000.00,Philadelphia Phillies
+Aaron Nola,SP,517500.00,Philadelphia Phillies
+Maikel Franco,3B,517500.00,Philadelphia Phillies
+Jerad Eickhoff,SP,516000.00,Philadelphia Phillies
+Vincent Velasquez,SP,516000.00,Philadelphia Phillies
+Aaron Altherr,CF,515500.00,Philadelphia Phillies
+Hector Neris,RP,515000.00,Philadelphia Phillies
+Dalier Hinojosa,RP,514000.00,Philadelphia Phillies
+Mario Hollands,RP,512500.00,Philadelphia Phillies
+Michael Mariot,RP,512500.00,Philadelphia Phillies
+Cedric Hunter,RF,507500.00,Philadelphia Phillies
+Daniel Stumpf,RP,507500.00,Philadelphia Phillies
+Tyler Goeddel,RF,507500.00,Philadelphia Phillies
+Francisco Liriano,SP,13666667.00,Pittsburgh Pirates
+Andrew McCutchen,CF,13208333.00,Pittsburgh Pirates
+Mark Melancon,RP,9650000.00,Pittsburgh Pirates
+Jon Niese,SP,9000000.00,Pittsburgh Pirates
+Michael Morse,1B,8000000.00,Pittsburgh Pirates
+Josh Harrison,2B,5250000.00,Pittsburgh Pirates
+John Jaso,1B,4000000.00,Pittsburgh Pirates
+Neftali Feliz,RP,3900000.00,Pittsburgh Pirates
+Francisco Cervelli,C,3500000.00,Pittsburgh Pirates
+Tony Watson,RP,3450000.00,Pittsburgh Pirates
+Starling Marte,LF,3333333.00,Pittsburgh Pirates
+Jeff Locke,SP,3025000.00,Pittsburgh Pirates
+David Freese,3B,3000000.00,Pittsburgh Pirates
+Juan Nicasio,RP,3000000.00,Pittsburgh Pirates
+Jung-ho Kang,3B,2500000.00,Pittsburgh Pirates
+Sean Rodriguez,1B,2500000.00,Pittsburgh Pirates
+Jared Hughes,RP,2175000.00,Pittsburgh Pirates
+Jordy Mercer,SS,2075000.00,Pittsburgh Pirates
+Ryan Vogelsong,SP,2000000.00,Pittsburgh Pirates
+Chris Stewart,C,1350000.00,Pittsburgh Pirates
+Cory Luebke,RP,1000000.00,Pittsburgh Pirates
+Matt Joyce,LF,1000000.00,Pittsburgh Pirates
+Cole Figueroa,2B,550000.00,Pittsburgh Pirates
+Gerrit Cole,SP,548000.00,Pittsburgh Pirates
+Gregory Polanco,RF,535000.00,Pittsburgh Pirates
+Arquimedes Caminero,RP,532500.00,Pittsburgh Pirates
+Kyle Lobstein,RP,520000.00,Pittsburgh Pirates
+Elias Diaz,C,510000.00,Pittsburgh Pirates
+Matt Kemp,RF,21500000.00,San Diego Padres
+James Shields,SP,21000000.00,San Diego Padres
+Melvin Upton Jr.,LF,15450000.00,San Diego Padres
+Tyson Ross,SP,9625000.00,San Diego Padres
+Andrew Cashner,SP,7150000.00,San Diego Padres
+Jon Jay,CF,6225000.00,San Diego Padres
+Alexei Ramirez,SS,3000000.00,San Diego Padres
+Derek Norris,C,2925000.00,San Diego Padres
+Fernando Rodney,RP,1600000.00,San Diego Padres
+Matt Thornton,P,1600000.00,San Diego Padres
+Carlos Villanueva,RP,1490314.00,San Diego Padres
+Drew Pomeranz,RP,1350000.00,San Diego Padres
+Brett Wallace,1B,1000000.00,San Diego Padres
+Adam Rosales,1B,800000.00,San Diego Padres
+Brandon Maurer,RP,526400.00,San Diego Padres
+Yangervis Solarte,3B,525500.00,San Diego Padres
+Wil Myers,1B,523900.00,San Diego Padres
+Kevin Quackenbush,RP,521200.00,San Diego Padres
+Buddy Baumann,RP,520000.00,San Diego Padres
+Ryan Buchter,RP,520000.00,San Diego Padres
+Cory Spangenberg,2B,517700.00,San Diego Padres
+Christian Bethancourt,C,511200.00,San Diego Padres
+Colin Rea,SP,510200.00,San Diego Padres
+Jon Edwards,RP,509600.00,San Diego Padres
+Travis Jankowski,CF,508800.00,San Diego Padres
+Jabari Blash,RF,507500.00,San Diego Padres
+Luis Perdomo,RP,507500.00,San Diego Padres
+Felix Hernandez,SP,25857143.00,Seattle Mariners
+Robinson Cano,2B,24000000.00,Seattle Mariners
+Nelson Cruz,DH,14250000.00,Seattle Mariners
+Hisashi Iwakuma,SP,10976096.00,Seattle Mariners
+Kyle Seager,3B,8000000.00,Seattle Mariners
+Adam Lind,1B,8000000.00,Seattle Mariners
+Joaquin Benoit,RP,7500000.00,Seattle Mariners
+Seth Smith,RF,6750000.00,Seattle Mariners
+Wade Miley,SP,6000000.00,Seattle Mariners
+Nori Aoki,LF,5500000.00,Seattle Mariners
+Chris Iannetta,C,4250000.00,Seattle Mariners
+Leonys Martin,CF,4150000.00,Seattle Mariners
+Steve Cishek,RP,4000000.00,Seattle Mariners
+Charlie Furbush,RP,1600000.00,Seattle Mariners
+Franklin Gutierrez,LF,1500000.00,Seattle Mariners
+Joel Peralta,RP,1250000.00,Seattle Mariners
+Ryan Cook,RP,1100000.00,Seattle Mariners
+Dae-Ho Lee,1B,1000000.00,Seattle Mariners
+Evan Scribner,RP,807500.00,Seattle Mariners
+Vidal Nuno,RP,532900.00,Seattle Mariners
+Taijuan Walker,SP,528600.00,Seattle Mariners
+Nick Vincent,RP,525500.00,Seattle Mariners
+Nate Karns,SP,523700.00,Seattle Mariners
+Steve Clevenger,C,516500.00,Seattle Mariners
+Ketel Marte,SS,515400.00,Seattle Mariners
+Mike Montgomery,RP,515000.00,Seattle Mariners
+Jesus Sucre,C,512000.00,Seattle Mariners
+Luis Sardinas,2B,512000.00,Seattle Mariners
+Tony Zych,RP,511000.00,Seattle Mariners
+Matt Cain,SP,20833333.00,San Francisco Giants
+Buster Posey,C,20777778.00,San Francisco Giants
+Hunter Pence,RF,18700000.00,San Francisco Giants
+Johnny Cueto,SP,17500000.00,San Francisco Giants
+Jake Peavy,SP,15000000.00,San Francisco Giants
+Angel Pagan,LF,11250000.00,San Francisco Giants
+Jeff Samardzija,SP,10800000.00,San Francisco Giants
+Madison Bumgarner,SP,9916667.00,San Francisco Giants
+Sergio Romo,RP,9000000.00,San Francisco Giants
+Santiago Casilla,RP,6500000.00,San Francisco Giants
+Brandon Belt,1B,6200000.00,San Francisco Giants
+Brandon Crawford,SS,6000000.00,San Francisco Giants
+Denard Span,CF,5000000.00,San Francisco Giants
+Javier Lopez,RP,5000000.00,San Francisco Giants
+Gregor Blanco,OF,3900000.00,San Francisco Giants
+George Kontos,RP,1150000.00,San Francisco Giants
+Cory Gearrin,RP,550000.00,San Francisco Giants
+Joe Panik,2B,545000.00,San Francisco Giants
+Matt Duffy,3B,537500.00,San Francisco Giants
+Chris Heston,SP,530000.00,San Francisco Giants
+Hunter Strickland,RP,517500.00,San Francisco Giants
+Ehire Adrianza,SS,512500.00,San Francisco Giants
+Josh Osich,RP,512500.00,San Francisco Giants
+Kelby Tomlinson,2B,512500.00,San Francisco Giants
+Trevor Brown,C,508500.00,San Francisco Giants
+Adam Wainwright,SP,19500000.00,St. Louis Cardinals
+Matt Holliday,LF,17000000.00,St. Louis Cardinals
+Yadier Molina,C,14200000.00,St. Louis Cardinals
+Jhonny Peralta,SS,12500000.00,St. Louis Cardinals
+Mike Leake,SP,12000000.00,St. Louis Cardinals
+Jaime Garcia,SP,11500000.00,St. Louis Cardinals
+Brandon Moss,1B,8250000.00,St. Louis Cardinals
+Lance Lynn,SP,7500000.00,St. Louis Cardinals
+Matt Carpenter,3B,6500000.00,St. Louis Cardinals
+Trevor Rosenthal,RP,5600000.00,St. Louis Cardinals
+Jedd Gyorko,3B,4000000.00,St. Louis Cardinals
+Jonathan Broxton,RP,3750000.00,St. Louis Cardinals
+Jordan Walden,RP,3675000.00,St. Louis Cardinals
+Brayan Pena,C,2500000.00,St. Louis Cardinals
+Seung-Hwan Oh,RP,2500000.00,St. Louis Cardinals
+Matt Adams,1B,1650000.00,St. Louis Cardinals
+Ruben Tejada,SS,1500000.00,St. Louis Cardinals
+Seth Maness,RP,1400000.00,St. Louis Cardinals
+Kolten Wong,2B,1250000.00,St. Louis Cardinals
+Eric Fryer,C,575000.00,St. Louis Cardinals
+Carlos Martinez,SP,539000.00,St. Louis Cardinals
+Kevin Siegrist,RP,539000.00,St. Louis Cardinals
+Michael Wacha,SP,539000.00,St. Louis Cardinals
+Randal Grichuk,CF,520000.00,St. Louis Cardinals
+Stephen Piscotty,RF,512500.00,St. Louis Cardinals
+Tyler Lyons,RP,512500.00,St. Louis Cardinals
+Thomas Pham,CF,510000.00,St. Louis Cardinals
+Mitch Harris,RP,509000.00,St. Louis Cardinals
+Greg Garcia,2B,507500.00,St. Louis Cardinals
+Jeremy Hazelbaker,RF,507500.00,St. Louis Cardinals
+Matt Bowman,SP,507500.00,St. Louis Cardinals
+Evan Longoria,3B,12600018.00,Tampa Bay Rays
+Matt Moore,SP,5100000.00,Tampa Bay Rays
+Steve Pearce,1B,4750000.00,Tampa Bay Rays
+Logan Morrison,1B,4200000.00,Tampa Bay Rays
+Alex Cobb,SP,4000000.00,Tampa Bay Rays
+Drew Smyly,SP,3750000.00,Tampa Bay Rays
+Desmond Jennings,LF,3300000.00,Tampa Bay Rays
+Chris Archer,SP,2916667.00,Tampa Bay Rays
+Erasmo Ramirez,SP,2375000.00,Tampa Bay Rays
+Logan Forsythe,2B,2250000.00,Tampa Bay Rays
+Hank Conger,C,1500000.00,Tampa Bay Rays
+Brandon Guyer,LF,1185000.00,Tampa Bay Rays
+Ryan Webb,RP,1000000.00,Tampa Bay Rays
+Dana Eveland,RP,895000.00,Tampa Bay Rays
+Brad Miller,SS,527600.00,Tampa Bay Rays
+Danny Farquhar,RP,527000.00,Tampa Bay Rays
+Chase Whitley,RP,524525.00,Tampa Bay Rays
+Xavier Cedeno,RP,524100.00,Tampa Bay Rays
+Corey Dickerson,RF,522900.00,Tampa Bay Rays
+Alex Colome,RP,521700.00,Tampa Bay Rays
+Jake Odorizzi,SP,520700.00,Tampa Bay Rays
+Steven Geltz,RP,519300.00,Tampa Bay Rays
+Brad Boxberger,RP,519200.00,Tampa Bay Rays
+Steven Souza,RF,516100.00,Tampa Bay Rays
+Tim Beckham,2B,514500.00,Tampa Bay Rays
+Kevin Kiermaier,CF,514400.00,Tampa Bay Rays
+Curt Casali,C,513600.00,Tampa Bay Rays
+Enny Romero,RP,510000.00,Tampa Bay Rays
+Prince Fielder,DH,24000000.00,Texas Rangers
+Josh Hamilton,LF,24000000.00,Texas Rangers
+Cole Hamels,SP,22500000.00,Texas Rangers
+Shin-Soo Choo,RF,20000000.00,Texas Rangers
+Adrian Beltre,3B,18000000.00,Texas Rangers
+Elvis Andrus,SS,15333333.00,Texas Rangers
+Yu Darvish,SP,10000000.00,Texas Rangers
+Derek Holland,SP,10000000.00,Texas Rangers
+Ian Desmond,LF,8000000.00,Texas Rangers
+Colby Lewis,SP,6000000.00,Texas Rangers
+Mitch Moreland,1B,5700000.00,Texas Rangers
+Shawn Tolleson,RP,3275000.00,Texas Rangers
+Martin Perez,SP,3150000.00,Texas Rangers
+Tom Wilhelmsen,RP,3100000.00,Texas Rangers
+Justin Ruggiano,RF,1650000.00,Texas Rangers
+Robinson Chirinos,C,1550000.00,Texas Rangers
+Tony Barnette,RP,1500000.00,Texas Rangers
+Jake Diekman,RP,1255000.00,Texas Rangers
+Chris Gimenez,C,975000.00,Texas Rangers
+Tanner Scheppers,RP,900000.00,Texas Rangers
+Sam Dyson,RP,525270.00,Texas Rangers
+Rougned Odor,2B,522700.00,Texas Rangers
+Bryan Holaday,C,519000.00,Texas Rangers
+Keone Kela,RP,518000.00,Texas Rangers
+Delino DeShields Jr.,CF,517300.00,Texas Rangers
+Hanser Alberto,3B,511500.00,Texas Rangers
+Ryan Rua,LF,510120.00,Texas Rangers
+Phil Klein,RP,509500.00,Texas Rangers
+Andrew Faulkner,RP,508500.00,Texas Rangers
+Luke Jackson,RP,508500.00,Texas Rangers
+Troy Tulowitzki,SS,20000000.00,Toronto Blue Jays
+Russell Martin,C,15000000.00,Toronto Blue Jays
+Jose Bautista,RF,14000000.00,Toronto Blue Jays
+R.A. Dickey,SP,12000000.00,Toronto Blue Jays
+Josh Donaldson,3B,11650000.00,Toronto Blue Jays
+Marco Estrada,SP,11500000.00,Toronto Blue Jays
+J.A. Happ,SP,10000000.00,Toronto Blue Jays
+Edwin Encarnacion,DH,10000000.00,Toronto Blue Jays
+Drew Storen,RP,8375000.00,Toronto Blue Jays
+Jesse Chavez,RP,4000000.00,Toronto Blue Jays
+Justin Smoak,1B,3900000.00,Toronto Blue Jays
+Brett Cecil,RP,3800000.00,Toronto Blue Jays
+Michael Saunders,RF,2900000.00,Toronto Blue Jays
+Franklyn Morales,RP,2000000.00,Toronto Blue Jays
+Aaron Loup,RP,1050000.00,Toronto Blue Jays
+Darwin Barney,2B,1050000.00,Toronto Blue Jays
+Gavin Floyd,RP,1000000.00,Toronto Blue Jays
+Josh Thole,C,800000.00,Toronto Blue Jays
+Ezequiel Carrera,LF,521800.00,Toronto Blue Jays
+Chris Colabello,1B,521300.00,Toronto Blue Jays
+Kevin Pillar,CF,521100.00,Toronto Blue Jays
+Ryan Goins,2B,520200.00,Toronto Blue Jays
+Aaron Sanchez,SP,517800.00,Toronto Blue Jays
+Roberto Osuna,RP,516100.00,Toronto Blue Jays
+Marcus Stroman,SP,515900.00,Toronto Blue Jays
+Bo Schultz,RP,513300.00,Toronto Blue Jays
+Devon Travis,2B,511200.00,Toronto Blue Jays
+Arnold Leon,RP,510500.00,Toronto Blue Jays
+Joe Biagini,RP,507500.00,Toronto Blue Jays
+Max Scherzer,SP,22142857.00,Washington Nationals
+Jayson Werth,LF,21733615.00,Washington Nationals
+Ryan Zimmerman,1B,14000000.00,Washington Nationals
+Gio Gonzalez,SP,12100000.00,Washington Nationals
+Jonathan Papelbon,RP,10936574.00,Washington Nationals
+Stephen Strasburg,SP,10400000.00,Washington Nationals
+Daniel Murphy,2B,8000000.00,Washington Nationals
+Ben Revere,CF,6250000.00,Washington Nationals
+Wilson Ramos,C,5350000.00,Washington Nationals
+Bryce Harper,RF,5000000.00,Washington Nationals
+Shawn Kelley,RP,4000000.00,Washington Nationals
+Oliver Perez,RP,3000000.00,Washington Nationals
+Stephen Drew,SS,3000000.00,Washington Nationals
+Danny Espinosa,SS,2875000.00,Washington Nationals
+Anthony Rendon,3B,2800000.00,Washington Nationals
+Yusmeiro Petit,RP,2500000.00,Washington Nationals
+Jose Lobaton,C,1387500.00,Washington Nationals
+Chris Heisey,LF,1250000.00,Washington Nationals
+Matt Belisle,RP,1250000.00,Washington Nationals
+Tanner Roark,SP,543400.00,Washington Nationals
+Clint Robinson,1B,534900.00,Washington Nationals
+Blake Treinen,RP,524900.00,Washington Nationals
+Michael Taylor,LF,524000.00,Washington Nationals
+Aaron Barrett,RP,519400.00,Washington Nationals
+Felipe Rivero,RP,516100.00,Washington Nationals
+Joe Ross,SP,514400.00,Washington Nationals
