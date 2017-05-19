@@ -99,9 +99,10 @@ You may start to be seeing a pattern here with installation using **pip**:
 ```bash
 pip install virtualenvwrapper-win
 ```
-**Caution**: If you prefer to use a more robust command line interface like Windows PowerShell, note that the package **virtualenvwrapper-win** won't work; try something like **[`virtualenvwrapper-powershell`](https://pypi.python.org/pypi/virtualenvwrapper-powershell)** instead (note, though, that it's only tested on Python 2.7).
 	
-This wrapper just adds commands for easier interaction with **virtualenv**. For example: Instead of having to navigate to an environment's "Scripts" folder and ```activate``` it, typing ```workon <your-virtual-environment>``` achieves the same effect regardless of what directory you're in.
+This wrapper just adds commands for easier interaction with **virtualenv**. For example: Instead of having to navigate to an environment's "Scripts" folder and `activate` it, typing `workon <your-virtual-environment>` achieves the same effect regardless of what directory you're in.
+
+**Caution**: If you prefer to use a more robust command line interface like Windows PowerShell, **virtualenvwrapper-win** won't work; try something like **[`virtualenvwrapper-powershell`](https://pypi.python.org/pypi/virtualenvwrapper-powershell)** instead (it's only tested on Python 2.7, though).
 
 ---
 
@@ -174,12 +175,12 @@ Once that finishes, you will have two versions of Python on your machine:
 - Running `python3` will launch the latest version of Python 3 that you just installed
 
 
-
 _Running El Capitan?_ Changes in OS X 10.11 El Capitan can make this process even trickier. Apple instituted extra system protections that have the capability of adding a few steps to the Homebrew install process. If you're running into these issues, [read this](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md) for more information.
 
+----
 	
 1\. **Check for pip**
-Homebrew's Python comes with pip in tow -- which, for Python 3, is used by calling `pip3`. If you're using the OS X system version, it may not be installed -- check first. Open the Terminal and type the following:
+Homebrew's Python comes with pip in tow -- which, for Python 3, is used by calling `pip3`. Open the Terminal and type the following:
 ```bash
 pip3 -V
 ```
@@ -190,7 +191,7 @@ If pip is installed, this will return a version number.
 2\. **If it's not there: Get pip**
 Download [`get-pip.py`](https://bootstrap.pypa.io/get-pip.py), navigate to wherever you downloaded it and type the following:
 ```bash
-python get-pip.py
+python3 get-pip.py
 ```
 
 See [this walkthrough](http://pip.readthedocs.org/en/stable/installing/) for more information on installing pip.
@@ -211,7 +212,7 @@ pip3 -V
 With **pip**, adding the **virtualenv** package is as easy as typing:
 
 ```bash
-pip install virtualenv
+pip3 install virtualenv
 ```
 
 It should appear among pip and setuptools when you type ```pip list``` and you should be able to verify the version with:
@@ -227,7 +228,7 @@ virtualenv --version
 We can install virtualenvwrapper with **pip** as well:
 
 ```bash
-pip install virtualenvwrapper
+pip3 install virtualenvwrapper
 ```
 	
 This wrapper just adds commands for easier interaction with **virtualenv**. You can make new virtual environments easily, using the `mkvirtualenv` command. And instead of having to navigate to an environment's "Scripts" folder and `activate` it, typing `workon <your-virtual-environment>` wherever you're at in the system achieves the same effect.
@@ -265,10 +266,9 @@ The following lines need to be added once it's been opened:
 
 ```bash
 export WORKON_HOME=$HOME/.virtualenvs
-export PROJECT_HOME=$HOME/Devel
 source /usr/local/bin/virtualenvwrapper.sh
 ```
-The first line just sets up a directory for your virtual environments; if you don't want them in your Home directory in a folder called "Envs," you can change the path accordingly.
+The first line just sets up a directory for your virtual environments; if you don't want them in your Home directory in a folder called ".virtualenvs," you can change the path accordingly.
 
 The second line is a hook for **virtualenvwrapper** so that its commands will work when you type them in the Terminal. 
 
