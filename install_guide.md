@@ -142,7 +142,7 @@ Not to evangelize about Homebrew too much, but if you decide to travel down the 
 It has downsides; Homebrew requires a current version of Apple's Xcode's command line tools to be installed on your computer first. A full guide is [available here](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Installation.md) to get you up and running.
 
 !!! caution
-	Changes in OS X 10.11 El Capitan can make this process even trickier. Apple insituted extra system protections that have the capability of adding a few steps to the Homebrew install process. If you're running into these issues, [read this](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md) for more information.
+	Changes in OS X 10.11 El Capitan can make this process even trickier. Apple instituted extra system protections that have the capability of adding a few steps to the Homebrew install process. If you're running into these issues, [read this](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md) for more information.
 
 !!! note
 	You can also use the built-in OS X Python if you wish. The next step in that case will be getting pip up and running.
