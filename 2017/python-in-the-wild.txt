@@ -1,0 +1,26 @@
+California Civic Data Coalition: http://www.californiacivicdata.org/
+
+NYT Clerk: https://github.com/newsdev/nyt-clerk
+
+NPR guns scraper: http://blog.apps.npr.org/2016/06/17/scraping-tips.html
+
+WaPo Whippersnapper screenshot tool: https://github.com/washingtonpost/whippersnapper
+
+NYT Elex (AP election data): https://github.com/newsdev/elex
+
+LA Times Earthquake bot:
+    - http://www.latimes.com/local/lanow/la-me-earthquakesa-earthquake-35-quake-strikes-near-tres-pinos-calif-ygmv-story.html
+    - http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html
+
+Buzzfeed News notebooks:
+    - https://github.com/BuzzFeedNews/2016-09-ucr-analysis
+    - https://github.com/BuzzFeedNews/2016-05-H-2-debarments-and-violations
+    - https://github.com/BuzzFeedNews/2016-01-port-arthur-arrests
+
+NPR Clerk Slackbot: https://github.com/nprapps/clerk
+
+Chicago Tribune Campaign Cash Twitter Bot: https://twitter.com/ilcampaigncash
+
+Nebraska campaign finance data via Omaha World-Herald:
+    - Parser: https://github.com/owh-projects/nadc_data
+    - App: http://dataomaha.com/campaign-finance
