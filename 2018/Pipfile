@@ -1,0 +1,24 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+requests = "*"
+pandas = "*"
+jupyter = "*"
+"bs4" = "*"
+geopy = "*"
+geopandas = "*"
+shapely = "*"
+pdfplumber = "*"
+matplotlib = "*"
+fiona = "*"
+rtree = "*"
+
+
+[dev-packages]
+
