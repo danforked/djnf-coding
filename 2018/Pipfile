@@ -17,7 +17,8 @@ shapely = "*"
 pdfplumber = "*"
 matplotlib = "*"
 fiona = "*"
-rtree = "*"
+Rtree = "*"
+xlrd = "*"
 
 
 [dev-packages]
