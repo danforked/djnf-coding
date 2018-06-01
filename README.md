@@ -10,13 +10,16 @@ Contact Alex Richards with any questions ([alex@ire.org](mailto:alex@ire.org)).
 ## `/2017`
 Contact Cody Winchester with any questions ([cody@ire.org](mailto:cody@ire.org)).
 
+## `/2018`
+Contact Cody Winchester with any questions ([cody@ire.org](mailto:cody@ire.org)).
+
 Other DJNF boot camp instructors:
 - [Charles Minshew](https://github.com/charlesminshew)
 - [David Herzog](https://github.com/DavidHerzog)
 - [Sarah Hutchins](https://twitter.com/sarhutch)
 
 ### Set up Python yourself!
-Check out our guide: `install_guide.md`.
+Check out this guide: `2018/reference/Starting a new Python project from scratch.ipynb`.
 
 ### More resources
 
