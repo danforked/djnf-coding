@@ -19,7 +19,7 @@ Other DJNF boot camp instructors:
 - [Sarah Hutchins](https://twitter.com/sarhutch)
 
 ### Set up Python yourself!
-Check out this guide: `2018/reference/Starting a new Python project from scratch.ipynb`.
+[Check out this guide](https://github.com/ireapps/djnf-coding/blob/master/2018/reference/Starting%20a%20new%20Python%20project%20from%20scratch.ipynb).
 
 ### More resources
 
